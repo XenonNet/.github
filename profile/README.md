@@ -7,6 +7,6 @@ If you believe we have infringted on any of the following join our Discord Serve
 
 ##  Projects
 
-Neon - https://github.com/XenonNet/Neon-Unblocker  
-Xenon - https://github.com/XenonNet/Xenon-Unblocker     
-Astral - https://github.com/XenonNet/Astral-Unblocker
+Neon - https://github.com/XenonNet/Neon      
+Xenon - https://github.com/XenonNet/Xenon       
+Astral - https://github.com/XenonNet/Astral

@@ -4,7 +4,6 @@ Xenon Network is a team of experienced and passionate developers working on pre-
 We do not intend on violating any License, Terms of Service, or Privacy Policies. 
 
 If you believe we have infringted on any of the following join our Discord Server: https://discord.gg/ 
-> Discord Coming Soon! 
 
 ##  Projects
 

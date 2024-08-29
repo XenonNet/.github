@@ -6,7 +6,7 @@ We do not intend on violating any License, Terms of Service, or Privacy Policies
 If you believe we have infringted on any of the following join our [Discord Server](https://discord.gg/KVt8UHwS), or message me on Discord (@XenonDevs).
 
 ##  Projects
-
+- [Astro](https://github.com/XenonNet/Astro)
 ### Archived Projects
 - [NeonOld](https://github.com/XenonNet/NeonOld)
 - [XenonOld](https://github.com/XenonNet/XenonOld)
